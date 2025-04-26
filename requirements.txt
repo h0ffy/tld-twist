@@ -1,0 +1,3 @@
+simple-colors 
+tqdm 
+pyfiglet
